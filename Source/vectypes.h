@@ -14,7 +14,7 @@
 /*----------------------------------------------------------------------------*/ 
 
 #include <string.h>
-#include <stdint.h>
+#include "stdint.h"
 
 typedef unsigned int uint;
 typedef unsigned short ushort;

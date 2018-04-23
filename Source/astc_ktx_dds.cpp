@@ -21,7 +21,7 @@
 #include "astc_codec_internals.h"
 
 #include <stdio.h>
-#include <stdint.h>
+#include "stdint.h"
 #include <stdlib.h>
 
 #include "softfloat.h"

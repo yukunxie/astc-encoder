@@ -18,7 +18,7 @@
 #include "astc_codec_internals.h"
 
 #include "softfloat.h"
-#include <stdint.h>
+#include "stdint.h"
 #include <stdio.h>
 
 void destroy_image(astc_codec_image * img)

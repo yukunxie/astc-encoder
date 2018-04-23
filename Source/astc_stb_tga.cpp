@@ -17,7 +17,7 @@
 #include "astc_codec_internals.h"
 
 #include "softfloat.h"
-#include <stdint.h>
+#include "stdint.h"
 #include <stdio.h>
 
 #define STBI_HEADER_FILE_ONLY

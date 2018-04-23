@@ -18,6 +18,7 @@
 #include <stdio.h>
 #include <math.h>
 #include "mathlib.h"
+#include <cmath>
 
 /**************************
   basic OpenCL functions

@@ -17,7 +17,7 @@
 
 #define ASTC_CODEC_INTERNALS_INCLUDED
 
-#include <stdint.h>
+#include "stdint.h"
 #include <stdlib.h>
 #include "mathlib.h"
 

@@ -20,7 +20,7 @@
 
 #include <stdlib.h>
 #include <stdio.h>
-#include <stdint.h>
+#include "stdint.h"
 
 #include <ImfRgbaFile.h>
 #include <ImfStringAttribute.h>
